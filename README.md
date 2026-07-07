@@ -1,14 +1,6 @@
 <div align="center">
 
-<h1>Xujia Fang</h1>
-
-<p>
-  <strong>AI Full-Stack Engineer · Mobile/Web Developer · CS Student</strong>
-</p>
-
-<p>
-  <code>🍁 26 Fall · University of Toronto ECE Co-op</code>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=F8A8C8&center=true&pause=100000&lines=Hi,+I'm+Miura.+AI+Full-Stack+Engineer" alt="Hi"/>
 
 <img src="./assets/work.gif" width="180" alt="cute gif" />
 
