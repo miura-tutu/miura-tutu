@@ -22,18 +22,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,vite,webpack,sass,tailwind,pinia,git,github,vscode,figma" alt="Tech Stack Icons" />
 </p>
 
-<p align="center">
-  <code>React Native</code>
-  <code>Vue3</code>
-  <code>TypeScript</code>
-  <code>Node.js</code>
-  <code>Uni-app</code>
-  <code>Pinia</code>
-  <code>Vite</code>
-  <code>Webpack</code>
-  <code>Tailwind CSS</code>
-  <code>Frontend Engineering</code>
-</p>
+
 
 ---
 
