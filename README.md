@@ -10,7 +10,7 @@
 </p>
 
 
-<strong>🌱 Internship Experience</strong>
+## 🌱 Internship Experience
 
 <p>
   <strong>REDnote</strong> -- <code>Frontend Development Intern</code> -- <code>2025.08 to 2026.04</code><br/>
@@ -28,21 +28,20 @@
 
 
 ---
-
-<h3 align="center">Coding Activity</h3>
+## Coding Activity
 
 <div align="center">
   <!-- Replace this with your own WakaTime shared SVG link -->
   <img src="https://wakatime.com/share/@3114f669-09ac-48c8-ab75-8085404db882/000ca843-2785-4ecd-8614-1e5e52bc736b.svg" alt="WakaTime weekly activity"/>
 </div>
+## ⌛ WakaTime 💻
 
-<h3 align="center">⌛ WakaTime 💻</h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://wakatime.com/@3114f669-09ac-48c8-ab75-8085404db882">
     <img src="https://wakatime.com/share/@3114f669-09ac-48c8-ab75-8085404db882/2de599aa-3ccf-490d-9c07-67524adce0d9.svg" alt="wakatime"/>
   </a>
-</p>
+</p> -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
