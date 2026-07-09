@@ -34,6 +34,7 @@
   <!-- Replace this with your own WakaTime shared SVG link -->
   <img src="https://wakatime.com/share/@3114f669-09ac-48c8-ab75-8085404db882/000ca843-2785-4ecd-8614-1e5e52bc736b.svg" alt="WakaTime weekly activity"/>
 </div>
+
 ## ⌛ WakaTime 💻
 
 
