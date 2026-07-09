@@ -1,10 +1,22 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=F8A8C8&center=true&pause=100000&lines=Hi,+I'm+Miura.+AI+Full-Stack+Engineer" alt="Hi"/>
-
-<img src="./assets/work.gif" width="180" alt="cute gif" />
+<br/>
 
 </div>
+
+<p align="center">
+  <img src="./assets/work.gif" width="90" alt="cute koala gif" />
+</p>
+
+<strong>💼 Work Experience</strong>
+
+<strong>🌱 Internship Experience</strong>
+
+<p>
+  <strong>REDnote</strong> -- <code>Frontend Development Intern</code> -- <code>2025.08 to 2026.04</code><br/>
+  <strong>Epiroc Trading Co., Ltd.</strong> -- <code>Frontend Intern</code> -- <code>2025.04 to 2025.07</code><br/>
+</p>
 
 ---
 
@@ -22,14 +34,14 @@
 
 <div align="center">
   <!-- Replace this with your own WakaTime shared SVG link -->
-  <img src="https://wakatime.com/share/@YOUR_WAKATIME_USERNAME/YOUR_SHARE_ID.svg" alt="WakaTime weekly activity"/>
+  <img src="https://wakatime.com/share/@3114f669-09ac-48c8-ab75-8085404db882/000ca843-2785-4ecd-8614-1e5e52bc736b.svg" alt="WakaTime weekly activity"/>
 </div>
 
 <h3 align="center">⌛ WakaTime 💻</h3>
 
 <p align="center">
-  <a href="https://wakatime.com/@YOUR_WAKATIME_USER_ID">
-    <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg" alt="wakatime"/>
+  <a href="https://wakatime.com/@3114f669-09ac-48c8-ab75-8085404db882">
+    <img src="https://wakatime.com/share/@3114f669-09ac-48c8-ab75-8085404db882/2de599aa-3ccf-490d-9c07-67524adce0d9.svg" alt="wakatime"/>
   </a>
 </p>
 
@@ -38,29 +50,7 @@
 
 ---
 
-## 💼 Internship Experience
-
-<table align="center">
-  <tr>
-    <td align="center"><strong>2025.08 - 2026.04</strong></td>
-    <td>
-      <strong>REDnote</strong><br/>
-      Frontend Development Intern
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>2025.04 - 2025.07</strong></td>
-    <td>
-      <strong>Anhui Zhaomao Trading Co., Ltd.</strong><br/>
-      Frontend Intern
-    </td>
-  </tr>
-</table>
-
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=100&section=footer" />
 
 </div>
