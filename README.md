@@ -9,7 +9,6 @@
   <img src="./assets/work.gif" width="90" alt="cute koala gif" />
 </p>
 
-<strong>💼 Work Experience</strong>
 
 <strong>🌱 Internship Experience</strong>
 
